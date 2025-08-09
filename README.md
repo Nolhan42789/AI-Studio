@@ -4,9 +4,6 @@
 # AI-Studio — Mini toolkit for devs & creators
 A simple Streamlit app bundling useful AI tools: summarization, README generator, code explainer, commit message generator, blog writer, and image-prompt maker.
 
-Live demo: https://your-demo-url
-One-click deploy: Streamlit / Render
-
 ## Quick start
 1. git clone ...
 2. python -m venv venv && source venv/bin/activate
