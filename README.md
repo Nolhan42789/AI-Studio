@@ -1,2 +1,15 @@
 # AI-Studio
-AI Studio — A minimal, all-in-one Python Streamlit app bundling essential AI developer tools: text summarization, README generation, code explanation, commit message creation, blog/tweet writing, and image prompt generation. Ready for instant deployment with your OpenAI API key.
+
+
+# AI-Studio — Mini toolkit for devs & creators
+A simple Streamlit app bundling useful AI tools: summarization, README generator, code explainer, commit message generator, blog writer, and image-prompt maker.
+
+Live demo: https://your-demo-url
+One-click deploy: Streamlit / Render
+
+## Quick start
+1. git clone ...
+2. python -m venv venv && source venv/bin/activate
+3. pip install -r requirements.txt
+4. export OPENAI_API_KEY="sk-..."
+5. streamlit run app.py
